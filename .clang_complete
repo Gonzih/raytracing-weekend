@@ -1,0 +1,2 @@
+-DNDEBUG
+-std=c++2a
