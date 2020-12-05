@@ -1,5 +1,6 @@
 # Copy Pasting stuff from Ray Tracing in One Weekend
 
-[Ray Tracing in One Weekend](https://raytracing.github.io/books/RayTracingInOneWeekend.html)
+[_Ray Tracing in One Weekend_](https://raytracing.github.io/books/RayTracingInOneWeekend.html)
 
-![](https://raw.githubusercontent.com/Gonzih/raytracing-weekend/master/image.ppm)
+
+![](https://raw.githubusercontent.com/Gonzih/raytracing-weekend/master/image.png)
